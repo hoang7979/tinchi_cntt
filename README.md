@@ -1,3 +1,3 @@
 # tinchi_cntt
 
- <img src="./CodeLearn_certification.png" >
+ <img src="./c_codelearn/CodeLearn_certification.png" >
